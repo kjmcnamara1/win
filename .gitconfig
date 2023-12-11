@@ -1,0 +1,7 @@
+[core]
+editor = \"C:\\Users\\kjmcn\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+name = Kevin J. McNamara
+email = kjmcnamara1@gmail.com
+[pull]
+rebase = false
